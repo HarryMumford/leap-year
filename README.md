@@ -27,8 +27,10 @@ Write a program that when given a year, will return the closest leap year (this 
 
 4 => true
 3 => false
-400 => true
+8 => true
 100 => false
+200 => false
+400 => true
 
 ## edge cases
 
